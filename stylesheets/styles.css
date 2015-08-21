@@ -1,7 +1,7 @@
 body
 {
- background: rgb(22, 21, 20);
- font-size: 16px;
+ background: rgb(0, 21, 0);
+ font-size: 26px;
 }
 
 a
@@ -46,7 +46,7 @@ h1
   padding: 5px 0 .3em;
   line-height: 32px;
   text-align: center;
-  color: black;
+  color: white;
 }
 
 h3
@@ -62,7 +62,7 @@ h3
 
 header.sidebar
 {
-  background-color: #EEEEEE;
+  background-color: #730404;
   width: 30%;
   background-size: cover;
   display: inline-block;
